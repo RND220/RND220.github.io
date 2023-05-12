@@ -25,6 +25,17 @@
         "volume": "13",
         "year": "2021"
     },
+    "Beck2016": {
+        "author": "Beck, Fabian and Koch, Sebastian and Weiskopf, Daniel",
+        "doi": "10.1109/TVCG.2015.2467757",
+        "journal": "IEEE Transactions on Visualization and Computer Graphics",
+        "number": "1",
+        "pages": "180-189",
+        "title": "Visual Analysis and Dissemination of Scientific Literature Collections with SurVis",
+        "type": "ARTICLE",
+        "volume": "22",
+        "year": "2016"
+    },
     "Garett2016": {
         "abstract": "Proper design has become a critical element needed to engage website and mobile application users. However, little research has been conducted to define the specific elements used in effective website and mobile application design. We attempt to review and consolidate research on effective design and to define a short list of elements frequently used in research. The design elements mentioned most frequently in the reviewed literature were navigation, graphical representation, organization, content utility, purpose, simplicity, and readability. We discuss how previous studies define and evaluate these seven elements. This review and the resulting short list of design elements may be used to help designers and researchers to operationalize best practices for facilitating and predicting user engagement",
         "author": "Garett, Renee and Chiu, Jason and Zhang, Ly and Young, Sean",
